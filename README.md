@@ -25,13 +25,10 @@ This dashboard provides sales summary of gaming sales from 1970 to 2022. The dat
 ## I took the following steps to create the dashboard
 1. Downloaded Raw .csv data from kaggle.
 2. Quickly analysed the raw data for inconsistencies.
-1. Imported the raw data into Ms Excel.
-2. Cleaned and Normalised the Data in Excel.
-3. Created Pivot Tables to Analyse the data.
-4. Imported the Excel file into Power BI.
-5. Created Visualisations on Power BI from all the insights found using pivot tables in Excel.
-6. Published everything on Github.
+3. Imported the raw data into Pycharm.
+4. Cleaned and Normalised the data using Pandas extention.
+5. Imported the clean data into Ms SQL for Exploratory Data analysis.
+6. Imported the data into Power BI.
+7. Created Visualisations on Power BI using some of the insights found during the SQL EDA.
+8. Published everything on Github.
    
-## Dashboard Breakdown
-  * The dashboard is fully interactable
-  * The Filters are dependent on each other and change according to selection
