@@ -8,19 +8,23 @@ This dashboard provides sales summary of gaming sales from 1970 to 2022. The dat
 
 ## The dashboard answers the following business questions and more 
 
-1. **Customer satisfaction and expreince**
-   * How satisfied are customers with their interaction?
-   * Which factors contribute to dissatisfaction?
+1. **Sales trends**
+   * How have sales evolved over time?
+   * What are the regional sales trends by year?
+   * Which months have the highest sales?
+
+2. **Regional Sales**
+   * What are the total sales across all regions?
+   * How do sales break down by region?
      
-2. **Call center Perfomance**
-   * How many calls are being handled by each call center?
-   * What is the average responce time and are SLA's met?
-   * What is the average call duration and is it dependent on location or issue at hand?
-3. **Call reasons and issue resolution**
-   * What are the most common reasons customers contact the call centers?
-   * How does the call reason impact customer sentiment or resolution time?
+3. **Top selling consoles,publishers and genres**
+   * How do sales compare across Consoles?
+   * Which publishers dominate the market?
+   * Which game genres generate the most sales?
 
 ## I took the following steps to create the dashboard
+1. Downloaded Raw .csv data from kaggle.
+2. Quickly analysed the raw data for inconsistencies.
 1. Imported the raw data into Ms Excel.
 2. Cleaned and Normalised the Data in Excel.
 3. Created Pivot Tables to Analyse the data.
