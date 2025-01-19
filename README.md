@@ -1,9 +1,10 @@
 # SQL | Power BI | VIDEO GAMES SALES ANALYSIS
 
-![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
+![image](https://github.com/user-attachments/assets/e29bac71-95aa-44f9-a3f1-a87d675b7685)
+
 
 ## SUMMARY
-This Dashboard provides summary of inbound calls from from four major call centers in the United states, Data with over 30 000 records was cleaned and analysed using Ms excel and pivot tables and finally the data insights visualised over on Power Bi
+This dashboard provides sales summary of gaming sales from 1970 to 2022. The data was obtained from Kaggle and features over 50 000 records that include data on game titles, Consoles, publishers and sales from four major regions. The data was was cleaned, normalised, analysed and visualised in this project.
 
 ## The dashboard answers the following business questions and more 
 
