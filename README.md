@@ -1,6 +1,6 @@
 # SQL | Power BI | VIDEO GAMES SALES ANALYSIS
 
-
+![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
 
 ## SUMMARY
 This Dashboard provides summary of inbound calls from from four major call centers in the United states, Data with over 30 000 records was cleaned and analysed using Ms excel and pivot tables and finally the data insights visualised over on Power Bi
