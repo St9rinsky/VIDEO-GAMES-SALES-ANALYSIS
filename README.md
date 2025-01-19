@@ -1,1 +1,2 @@
-# SQL | Power BI 
+# SQL | Power BI | VIDEO GAMES SALES ANALYSIS
+
