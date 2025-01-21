@@ -26,9 +26,10 @@ This dashboard provides sales summary of gaming sales from 1970 to 2022. The dat
 1. Downloaded Raw .csv data from kaggle.
 2. Quickly analysed the raw data for inconsistencies.
 3. Imported the raw data into Pycharm.
-4. Cleaned and Normalised the data using Pandas extention.
+4. Cleaned and Normalised the data by removing uneccesary columns and filled missing values using Pandas extention.
 5. Imported the clean data into Ms SQL for Exploratory Data analysis.
 6. Imported the data into Power BI.
 7. Created Visualisations on Power BI using some of the insights found during the SQL EDA.
 8. Published everything on Github.
+
    
