@@ -32,4 +32,5 @@ This dashboard provides sales summary of gaming sales from 1970 to 2022. The dat
 7. Created Visualisations on Power BI using some of the insights found during the SQL EDA.
 8. Published everything on Github.
 
+## Insights
    
