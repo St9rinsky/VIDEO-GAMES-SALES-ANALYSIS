@@ -32,5 +32,13 @@ This dashboard provides sales summary of gaming sales from 1970 to 2022. The dat
 7. Created Visualisations on Power BI using some of the insights found during the SQL EDA.
 8. Published everything on Github.
 
-## Insights
+## key Insight
+1. North America dominates video games sales with over 50% of global sales contributions and with Japan the least dominant with less than 10% of the total global contribution'
+2. sports, shooter and role-playing genres dominate the sales whilst simulation and adventure games being the least dominant
+3. Sales are higher in December suggesting a strong link with holiday seasons
+
+## Recommendations
+1. Marketing efforts should focus on North America and Europe regions since the contribute over 80% of the global sales
+2. Launch major titles during holiday seasons to maximise on sales.
+3. Invest in development of shooter and sports games because they generate the most sales.
    
